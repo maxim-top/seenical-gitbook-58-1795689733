@@ -1,0 +1,34 @@
+{
+    "language": "en",
+    "title": "蓝莺1126-3 文档站",
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/maxim-top/seenical-gitbook-58-1795689733/blob/master"
+        },
+        "tbfed-pagefooter": {
+            "modify_label": "Updated: ",
+            "copyright": "  | <a href='/' target='_blank' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>"
+        },
+        "intopic-toc": {
+            "label": "Contents"
+        },
+        "logo": {
+            "url": "/"
+        },
+        "meta": {
+            "data": [
+                {
+                    "name": "keywords",
+                    "content": ""
+                }
+            ]
+        },
+        "seenical": {
+            "footer_note": "",
+            "lanying_link": "",
+            "hook_sentence_slogan": "",
+            "sitemap_hostname": "https://yrdczv.site.chatai101.com/",
+            "hook_sentence_image": ""
+        }
+    }
+}

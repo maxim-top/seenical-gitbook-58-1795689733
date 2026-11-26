@@ -6,5 +6,6 @@
             "source_dir": "zh-hans",
             "public_path": "/zh-hans/"
         }
-    }
+    },
+    "legacy_root_language": ""
 }

@@ -3,7 +3,8 @@
     "title": "蓝莺1126-3 文档站",
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/maxim-top/seenical-gitbook-58-1795689733/blob/master"
+            "base": "https://github.com/maxim-top/seenical-gitbook-58-1795689733/blob/master",
+            "label": "Edit on GitHub"
         },
         "tbfed-pagefooter": {
             "modify_label": "Updated: ",

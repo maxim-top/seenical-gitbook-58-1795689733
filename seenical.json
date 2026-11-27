@@ -1,16 +1,16 @@
 {
     "template": "seenical",
     "repository_version": 1,
-    "default_language": "en",
+    "default_language": "zh-hans",
     "languages": {
         "zh-hans": {
             "source_dir": "zh-hans",
-            "public_path": "/zh-hans/"
+            "public_path": "/"
         },
         "en": {
             "source_dir": "en",
             "public_path": "/en/"
         }
     },
-    "legacy_root_language": ""
+    "legacy_root_language": "zh-hans"
 }

@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "default_language": "zh-hans",
+    "default_language": "en",
     "languages": {
         "zh-hans": {
             "source_dir": "zh-hans",
